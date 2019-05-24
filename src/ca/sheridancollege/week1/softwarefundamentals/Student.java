@@ -54,7 +54,7 @@ public class Student {
      * @param address new value of address
      */
     public void setAddress(String address) {
-        this.address = address;
+        this.address = address1;
     }
 
     /**
